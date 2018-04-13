@@ -1,2 +1,2 @@
-# EveryDayStudy
-每日一练
+# KnowledgeSummary
+思维导图
